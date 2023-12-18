@@ -1,6 +1,6 @@
 # CVE-2023-6895
 IP网络对讲广播系统远程命令执行，导致攻击者可执行任意命令
-
+![](./vuln.jpg)
 
 ## 工具利用
 
@@ -10,7 +10,7 @@ python3 spon.py -c http://127.0.0.1:1111 cmdshell模式
 
 python3 spon.py -f url.txt 批量检测
 
-![](./exp.png)
+
 
 
 ## 免责声明
