@@ -7,8 +7,8 @@ import threadpool
 from urllib import parse
 from time import time
 import random
-#body="app/feature/portForwarding.js" || body="app/app.translate-config.js"
-
+#body=U2FsdGVkX18b3ja/kFmCeJSR75LEmlqLGUjMsGmsMjCHeJPzslY/1rdy4K0L6cuBIBUYKQgODDzp2o/vw3wlWrLLIpOLFQaUCUv3TCfMyCcaRabOQNzwK99wj1H5Gz1k
+#需要密码，密码提示我的好兄弟666
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 filename = sys.argv[1]
