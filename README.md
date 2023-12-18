@@ -1,5 +1,7 @@
 # Happy-Every-Day
-继承when的一部分意志
+
+继承when的一部分意志(https://github.com/MzzdToT)
+
 完善部分未授权、RCE、文件上传、sql注入、信息泄露漏洞批量扫描poc、exp,跟踪最新漏洞实时更新,目前是把之前写的整合在一起,后续新增会在最下边加一个时间线，想看最新的poc、exp可以根据时间线来选择
 
 
