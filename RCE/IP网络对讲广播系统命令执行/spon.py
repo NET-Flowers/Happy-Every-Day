@@ -53,7 +53,7 @@ def check_url(url):
 	url=url.scheme + '://' + url.netloc
 	url1=url + '/php/ping.php'
 	try:
-		res1 = requests.post(url1,headers=headers,data=data,proxies=proxies, timeout=5)
+		res1 = requests.post(url1,headers=headers,data=data, timeout=5)
 		data1=res1.text.encode('utf-8').decode('unicode_escape')
 	#	print(data1)
 		rsp_command=re.findall(r'\["(.*?)"\]',data1,re.DOTALL)[0]
