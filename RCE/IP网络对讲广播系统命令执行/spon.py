@@ -9,7 +9,8 @@ from urllib import parse
 from time import time
 import random
 import re
-#icon_hash="-1830859634"
+#icon_hash=U2FsdGVkX19Xe1+5vK6U91u+uHrRr7lQH488LIhcizs=
+#需要密码，密码提示我的好兄弟666
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 filename = sys.argv[1]
