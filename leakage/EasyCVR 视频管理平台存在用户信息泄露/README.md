@@ -4,11 +4,11 @@ EasyCVR用户账号信息泄露漏洞，通过构造特定数据包，获取防�
 
 ## 工具利用
 
-python spon.py -u http://127.0.0.1:1111 单个url测试
+python exp.py -u http://127.0.0.1:1111 单个url测试
 
-python3 spon.py -c http://127.0.0.1:1111 cmdshell模式
+python3 exp.py -c http://127.0.0.1:1111 cmdshell模式
 
-python3 spon.py -f url.txt 批量检测
+python3 exp.py -f url.txt 批量检测
 
 
 
