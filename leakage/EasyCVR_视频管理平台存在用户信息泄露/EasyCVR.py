@@ -7,7 +7,7 @@ import threadpool
 from urllib import parse
 from time import time
 import random
-#fofa:title="EasyCVR"
+#U2FsdGVkX1+uhFTKhk7qveoU3UVRJ+Ct6FC1ak90qF3wNCqN1SqnOoSPFI4HJvJb
 
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
